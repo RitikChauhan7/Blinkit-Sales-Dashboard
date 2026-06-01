@@ -1,10 +1,12 @@
-# Blinkit Sales Dashboard
+# Blinkit Sales Dashboard | Power BI
 
-## Overview
+## Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze Blinkit's sales performance, customer ratings, outlet characteristics, and product categories.
+This project is an interactive Power BI dashboard developed to analyze Blinkit's sales performance across different outlet types, locations, and product categories. The dashboard provides key business insights through data visualization, KPI tracking, and trend analysis.
 
-The dashboard helps identify key business trends and provides actionable insights through interactive visualizations and KPIs.
+## Project Objective
+
+To analyze sales performance and customer behavior across Blinkit's retail network and identify factors influencing revenue, product demand, outlet performance, and customer satisfaction.
 
 ## Dashboard Preview
 
@@ -12,48 +14,54 @@ The dashboard helps identify key business trends and provides actionable insight
 
 ## Key Performance Indicators (KPIs)
 
-* Total Sales: $1.20M
-* Average Sales: $141
-* Number of Items: 8,523
-* Average Rating: 3.9
+| KPI             | Value  |
+| --------------- | ------ |
+| Total Sales     | $1.20M |
+| Average Sales   | $141   |
+| Number of Items | 8,523  |
+| Average Rating  | 3.9    |
 
-## Features
+## Dashboard Features
 
-* Sales analysis by item type
-* Outlet establishment trends
-* Outlet size distribution
-* Outlet location comparison
-* Fat content analysis
-* Outlet type performance analysis
-* Interactive filters and slicers
+* Sales analysis by product category
+* Outlet performance comparison
+* Outlet size distribution analysis
+* Location-wise sales analysis
+* Fat content segmentation
+* Outlet establishment trend analysis
+* Interactive filtering and drill-down capabilities
 
-## Tools Used
+## Key Business Insights
+
+* Tier 3 outlets generated the highest overall sales.
+* Fruits & Vegetables and Snack Foods emerged as top-performing categories.
+* Regular-fat products contributed a significant portion of total revenue.
+* Supermarket Type 1 outlets demonstrated the strongest sales performance.
+* Sales trends varied considerably across outlet sizes and locations.
+
+## Tools & Technologies
 
 * Power BI
 * Power Query
-* DAX
-* Excel
-
-## Key Insights
-
-* Tier 3 outlets generated the highest sales.
-* Fruits and Snacks emerged as top-performing product categories.
-* Regular-fat products contributed a major share of total sales.
-* Supermarket Type 1 outlets showed the strongest overall performance.
+* DAX (Data Analysis Expressions)
+* Microsoft Excel
 
 ## Files Included
 
-* Power BI Dashboard (.pbix)
-* Dataset (.xlsx)
-* Dashboard Screenshot
-* Project Documentation
+* `Blinkit_Sales_Dashboard.pbix` – Power BI Dashboard
+* `Blinkit_Data.xlsx` – Dataset
+* `dashboard.png` – Dashboard Preview
+* `README.md` – Project Documentation
 
-## Learning Outcome
+## Skills Demonstrated
 
-This project helped strengthen skills in:
+* Data Cleaning & Transformation
+* Data Visualization
+* Dashboard Development
+* KPI Design & Tracking
+* Business Intelligence Reporting
+* Data Analysis
 
-* Data cleaning and transformation
-* Data visualization
-* Dashboard design
-* KPI tracking
-* Business intelligence reporting
+## Conclusion
+
+This project demonstrates the use of Power BI for transforming raw business data into meaningful insights that support data-driven decision-making.
