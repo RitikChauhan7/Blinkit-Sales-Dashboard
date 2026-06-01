@@ -44,7 +44,7 @@ The dashboard helps identify key business trends and provides actionable insight
 ## Files Included
 
 * Power BI Dashboard (.pbix)
-* Dataset (.xlsx/.csv)
+* Dataset (.xlsx)
 * Dashboard Screenshot
 * Project Documentation
 
